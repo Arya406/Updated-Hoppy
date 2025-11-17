@@ -84,8 +84,21 @@ export default function Home() {
         </div>
       </section>
       <div className="pt-12 pb-6">
-        <p>&#169; 2025 by Hoppy. All rights reserved!</p>
+      <p>
+  <a href="https://x.com/hoppy" target="_blank">Twitter</a> |
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@hoppy.art" target="_blank">
+  Mail us at – info@hoppy.art
+</a>
+
+</p>
+
+        <p>&#169; 2025 by Hoppy. All rights reserved! </p>
+      
+
+        
+        
       </div>
+      
     </div>
   );
 }

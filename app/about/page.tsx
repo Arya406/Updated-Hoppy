@@ -32,14 +32,7 @@ const page = () => {
                         <p>To bridge Web3 culture with real-world creativity — turning memes, art, and community energy into global entertainment, collectible products, and utility-driven digital tools.</p>
                     </div>
                     <div className='flex flex-col md:flex-row gap-6 md:gap-20'>
-                        <div>
-                            <p>Twitter-</p>
-                            <Link href="https://x.com/hoppy" target='_blank' className='text-green-300'>https://x.com/hoppy</Link>
-                        </div>
-                        <div>
-                            <p>Mail us at-</p>
-                            <Link href="info@hoppy.art" target='_blank' className='text-green-300'>info@hoppy.art</Link>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
