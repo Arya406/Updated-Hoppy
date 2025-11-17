@@ -89,7 +89,7 @@ const Navbar = () => {
                         <Link href="#bookofhoppy"><button className='cursor-pointer'>Book of Hoppy</button></Link>
                         <Link href="#hoppybot"><button className='cursor-pointer'>Hoppy Bot</button></Link>
                         <Link href="/nfts"><button className='cursor-pointer'>NFTs</button></Link>
-                        <Link href="/nfts"><button className='cursor-pointer'>Buisness</button></Link>
+                        <Link href="/about"><button className='cursor-pointer'>Buisness</button></Link>
                     </div>
 
                     <div className='flex flex-col gap-2 pt-4 border-t border-gray-200'>
