@@ -85,10 +85,11 @@ export default function Home() {
       </section>
       <div className="pt-12 pb-6">
       <p>
-  <a href="https://x.com/hoppy" target="_blank">Twitter</a> |
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@hoppy.art" target="_blank">
+      <a href="https://x.com/hoppy" target="_blank">Twitter</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@hoppy.art" target="_blank">
   Mail us at – info@hoppy.art
 </a>
+
 
 </p>
 

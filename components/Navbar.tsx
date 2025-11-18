@@ -52,7 +52,7 @@ const Navbar = () => {
                         </div>
                     </Link>
 
-                    <Link href="/wiki" target='_blank' className='cursor-pointer'>
+                    <Link href="https://en.wikipedia.org/wiki/Hoppy_the_Frog" target='_blank' className='cursor-pointer'>
                         <div className='flex items-center gap-2 cursor-pointer'>
                             <span>Wiki</span>
                             <BookOpen />
@@ -94,7 +94,7 @@ const Navbar = () => {
 
                     <div className='flex flex-col gap-2 pt-4 border-t border-gray-200'>
                         <Link href="https://hoppy.vip/" target='_blank'>Main Site</Link>
-                        <Link href="/wiki" target='_blank'>Wiki</Link>
+                        <Link href="https://en.wikipedia.org/wiki/Hoppy_the_Frog" target='_blank'>Wiki</Link>
                     </div>
                 </div>
             )}

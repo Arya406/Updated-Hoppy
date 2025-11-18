@@ -11,7 +11,7 @@ const Hero = () => {
                         Discover the universe of Hoppy
                     </h1>
                     <p className="text-lg text-gray-100 mb-8">
-                        The complete archive
+                    A business dedicated to Expanding the HOPPY brand across Web3, comics, toys & collectibles
                     </p>
 
                     <div className="flex flex-wrap gap-4">
